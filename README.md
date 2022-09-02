@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi I'm Lucas 👋
 
 ![snake gif](https://github.com/LucasMartinsVieira/LucasMartinsVieira/blob/output/github-contribution-grid-snake.svg)
 
