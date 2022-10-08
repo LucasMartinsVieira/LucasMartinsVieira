@@ -11,7 +11,7 @@
 #### BIO
 - :boy: My name is **Lucas**, I'm 18 years old
 
-  - :computer: **Linux** user
+- :computer: **Linux** user
  
 - :books: Learning: **Web Development** _(HTML5, CSS3. JavaScript)_
 
