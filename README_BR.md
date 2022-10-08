@@ -11,7 +11,7 @@
 #### BIO
 - :boy: Eu Me Chamo **Lucas**, Tenho 18 Anos
 
-- :computer: Usuário **Linux**, _A propósito eu uso Arch_ :sunglasses:
+- :computer: Usuário **Linux**
  
 - :books: Aprendendo: **Desenvolvimento Web** _(HTML5, CSS3. JavaScript)_
 
@@ -32,7 +32,7 @@
 
 #### ESTATÍSTICAS
 
-<div align="center">
+<div>
   <a href="https://github.com/LucasMartinsVieira">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasMartinsVieira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 
