@@ -1,36 +1,20 @@
-### HI I'M LUCAS 🥷🏻
+<div align="center">
+<b>HI I'M LUCAS 🥷</b>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-martins-vieira-425880210/)
+[![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:lucasmartvieira03@outlook.com)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/_lucmartinss)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_lucmartinss/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucasmartvieira03@gmail.com)
 
-#### AVAILABLE LANGUAGENS
-#### [English :us:](./README.md)&nbsp;&nbsp;&nbsp;&nbsp;[Portuguese :brazil:](./README_BR.md)
+<p align="left">「</p>  
+<br>
 
-#### BIO
-- :boy: My name is **Lucas**, I'm 18 years old
-
-- :computer: **Linux** user
+ <div align="center">
  
-- :books: Learning: **Web Development** _(HTML5, CSS3. JavaScript)_
-
-- :zap: Fun fact: I Love to **Work Out** :weight_lifting_man:
-
-#### LANGUAGENS AND TOOLS
-![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
-![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-#### STATISTICS
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3500&pause=1000&color=7FDBCA&center=true&width=435&lines=Linux+Enthusiast;Always+Learning+something+new!;Awesome+%26+Neovim)](https://git.io/typing-svg)  
+ </div>
+<p align="right">」</p>                                                                     
+<br>
 
 <div>
   <a href="https://github.com/LucasMartinsVieira">
