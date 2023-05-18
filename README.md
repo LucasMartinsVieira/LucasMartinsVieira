@@ -10,9 +10,10 @@
 <br>
 
  <div align="center">
- 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3500&pause=1000&color=7FDBCA&center=true&width=435&lines=Linux+Enthusiast;Always+Learning+Something+New!;Awesome+%26+Neovim)](https://git.io/typing-svg)  
+
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3500&pause=1000&center=true&width=435&lines=Developer;Always+Learning+Something+New!;Awesome+%26+Neovim)](https://git.io/typing-svg)
  </div>
+
 <p align="right">」</p>                                                                     
 <br>
 
